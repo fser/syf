@@ -1,0 +1,4 @@
+- Initial sync
+- Config file
+- More test on return values / exception
+- Bi directionnal sync (if the remote dir was updated)
